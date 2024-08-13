@@ -5,3 +5,7 @@ This repository contains a responsive HTML and CSS layout designed to adapt to v
 # Screenshot
 Here we have project screenshot :
 ![Screenshot 2024-08-13 220249](https://github.com/user-attachments/assets/b673bd16-cad2-4549-a2d1-a7278d4338df)
+
+<div align="center">
+	<h3><a href="https://yousef-awaad.github.io/Color-Generator/">Live Preview</a></h3>
+</div>
